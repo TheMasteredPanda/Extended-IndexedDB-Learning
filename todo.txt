@@ -1,0 +1,7 @@
+- Create a form to update images to an IndexedDb
+    - The form will require at least one image, a product, a description, and a price. 
+- Store each image in a compressed state.
+- Create a list of images below the form in a formatted state.
+    - All image entires will contain a Delete and Update button, as well as the image title (name) and image.
+        - The Update Button will open up a overlay box with information relevant to the image 
+          clicked, containing the functions to edit the image name, the image, price, and description.
